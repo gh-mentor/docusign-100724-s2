@@ -36,9 +36,9 @@ class VulnerableLoginManager {
 
 // Example usage:
 const dbConfig = {
-    host: 'localhost',
+    host: '127.0.0.1',
     user: 'root',
-    password: 'password',
+    password: 'xyz123',
     database: 'testdb'
 };
 
